@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/axie-energy-counter/static/css/main.3e715567.chunk.css",
+    "main.js": "/axie-energy-counter/static/js/main.fb607d59.chunk.js",
+    "main.js.map": "/axie-energy-counter/static/js/main.fb607d59.chunk.js.map",
+    "runtime-main.js": "/axie-energy-counter/static/js/runtime-main.8ff51976.js",
+    "runtime-main.js.map": "/axie-energy-counter/static/js/runtime-main.8ff51976.js.map",
+    "static/js/2.e68d73be.chunk.js": "/axie-energy-counter/static/js/2.e68d73be.chunk.js",
+    "static/js/2.e68d73be.chunk.js.map": "/axie-energy-counter/static/js/2.e68d73be.chunk.js.map",
+    "static/js/3.2d4f96ad.chunk.js": "/axie-energy-counter/static/js/3.2d4f96ad.chunk.js",
+    "static/js/3.2d4f96ad.chunk.js.map": "/axie-energy-counter/static/js/3.2d4f96ad.chunk.js.map",
+    "index.html": "/axie-energy-counter/index.html",
+    "static/css/main.3e715567.chunk.css.map": "/axie-energy-counter/static/css/main.3e715567.chunk.css.map",
+    "static/js/2.e68d73be.chunk.js.LICENSE.txt": "/axie-energy-counter/static/js/2.e68d73be.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ff51976.js",
+    "static/js/2.e68d73be.chunk.js",
+    "static/css/main.3e715567.chunk.css",
+    "static/js/main.fb607d59.chunk.js"
+  ]
+}
